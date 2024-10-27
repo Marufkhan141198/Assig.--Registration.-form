@@ -1,0 +1,23 @@
+.container {
+    height: 500px;
+    width: 400px;
+    background-color: rgba(133, 201, 15, 0.922);
+    border: 2px;
+    padding-left: 30px;
+    margin:auto
+}
+.input-element {
+    width: 90%;
+    margin-bottom: 4px;
+    padding: 3px;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.para {
+    margin-left: 109px;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lb {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
