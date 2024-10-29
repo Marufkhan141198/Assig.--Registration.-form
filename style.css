@@ -21,3 +21,14 @@
 .lb {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.btn {
+    width:70px;
+    margin-left: 100px;
+    background-color: brown;
+    margin-top: 10px;
+
+}
+.welcome {
+    background-color: aqua;
+    height: 800px;
+}
